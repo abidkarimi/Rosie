@@ -198,7 +198,7 @@ function PageHome() {
           itemPerRow={5}
         /> */}
 
-        <SectionVideos />
+        {/* <SectionVideos /> */}
 
         <div className="relative py-16">
           <BackgroundSection />
